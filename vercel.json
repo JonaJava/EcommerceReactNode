@@ -62,3 +62,4 @@
     ]
 
 }
+{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
